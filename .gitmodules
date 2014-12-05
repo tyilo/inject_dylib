@@ -1,0 +1,3 @@
+[submodule "task_vaccine"]
+	path = task_vaccine
+	url = https://github.com/rodionovd/task_vaccine.git
